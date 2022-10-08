@@ -4,3 +4,4 @@ aaaaaaaaaaaaaaaaaa
 Gitのコミットを学びます
 Git Remove
 git status
+git diff
