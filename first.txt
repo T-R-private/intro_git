@@ -3,3 +3,4 @@ Gitの練習用テキストです
 aaaaaaaaaaaaaaaaaa
 Gitのコミットを学びます
 Git Remove
+git status
